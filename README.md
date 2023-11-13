@@ -1,3 +1,10 @@
 - 👋 Hi, I’m @P0s1blee
-- 👀 I’m interested in SW development and CyberSecurity. I am curently working as a Cybersecurity analyst and I am working on myself to become SW developer with a taste in security. 
-- 🌱 I’m currently learning 🐍Python🐍 and after that I will move to the Java and SpringBoot.
+-Welcome to my GitHub repository! 👋 I'm Josef alias P0s1ble, a recent high school graduate aspiring to become a Front-End Developer. This repository serves as my portfolio where I showcase my projects and skills related to front-end development.
+
+## About Me
+
+- 🎓 Recent high school graduate
+- 💻 Passionate about web development
+- 🌐 Eager to learn and contribute to the tech community
+- 🎸 Guitar player
+- 🎨 Web designer
